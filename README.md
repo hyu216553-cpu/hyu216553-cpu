@@ -1,52 +1,23 @@
-# Hi there! 👋 I'm Emma (小鱼 🐟) 
+# Hey 👋, I'm Emma (小鱼 🐟)
 
-## 🎯 About Me
+I am a Technical Recruiter at [Tencent](https://www.tencent.com), focusing on discovering exceptional talents in the AI/ML space, particularly in Large Language Models (LLM). My MBTI is ENTJ.
 
-🏢 **Senior Technical Recruiter @ Tencent**  
-🧬 **MBTI**: ENTJ - Natural leader & strategic thinker  
-🤖 **Focus Area**: Large Language Model (LLM) Talents
+I'm currently seeking brilliant minds in the following areas:
++ 🧠 **Pre-training** - Building foundation models that push the boundaries of what's possible
++ 🎨 **Post-training** - RLHF, alignment, and fine-tuning to make models truly useful
++ ⚙️ **Infrastructure** - Distributed training systems and optimization frameworks
++ 💻 **Code Generation** - My current focus area! Building AI that understands and writes code
 
----
-
-## 💼 What I Do
-
-I'm on a mission to discover exceptional talents in the AI/ML space! 🚀
-
-**Currently seeking brilliant minds in:**
-- 🧠 **Pre-training** - Building foundation models
-- 🎨 **Post-training** - RLHF, alignment, and fine-tuning  
-- ⚙️ **Infrastructure** - Distributed training & optimization
-- 💻 **Code Generation** - My current focus area!
+**Why connect with me?**  
+More than just job opportunities, I'm here to share market insights, help you see career options from different perspectives, and navigate your next move with confidence. Let's discuss tech, learn together, and grow in the AI era. Even casual chats are welcome - you never know when we might help each other out! 🌟
 
 ---
 
-## 🤝 Why Connect With Me?
-
-✨ **More than just job opportunities!** I'm here to:
-
-- 📊 Share market insights & industry trends
-- 🔍 Help you see career options from different perspectives  
-- 🧭 Navigate your next move with confidence
-- 💬 Discuss tech, learn together, and grow in the AI era
-- 🌟 Build genuine connections - even casual chats are welcome!
-
-**Let's be friends!** 🫱🏻‍🫲🏼 You never know when we might help each other out. 😊
-
----
-
-## 📬 Let's Connect!
-
-- 📧 **Email**: [emmamayu@tencent.com](mailto:emmamayu@tencent.com)  
-- 💬 **WeChat**: `Raindayfish_920`  
-- 🐦 **X (Twitter)**: [@cpk8vFeRT626233](https://x.com/cpk8vFeRT626233)  
-- 📷 **Xiaohongshu** (小红书): [4296150630](https://www.xiaohongshu.com/user/profile/4296150630)
-
----
+[![Email](https://img.shields.io/badge/Email-emmamayu%40tencent.com-EA4335?style=social&logo=gmail&logoColor=EA4335)](mailto:emmamayu@tencent.com)
+[![WeChat](https://img.shields.io/badge/WeChat-Raindayfish__920-07C160?style=social&logo=wechat&logoColor=07C160)](https://weixin.qq.com)
+[![X](https://img.shields.io/badge/X-@cpk8vFeRT626233-1DA1F2?style=social&logo=x&logoColor=1DA1F2)](https://x.com/cpk8vFeRT626233)
+[![Xiaohongshu](https://img.shields.io/badge/小红书-4296150630-FF2442?style=social&logoColor=FF2442)](https://www.xiaohongshu.com/user/profile/4296150630)
 
 <div align="center">
-
-### 🌊 *"Great talents make great waves"* 🌊
-
-**Looking forward to hearing from you!** 💌
-
+  <i>"Great talents make great waves" 🌊</i>
 </div>
