@@ -36,7 +36,7 @@ I'm on a mission to discover exceptional talents in the AI/ML space! 🚀
 
 ## 📬 Let's Connect!
 
-- 📧 **Email**: [emmamayu@emmamayu](mailto:emmamayu@emmamayu)  
+- 📧 **Email**: [emmamayu@tencent.com](mailto:emmamayu@tencent.com)  
 - 💬 **WeChat**: `Raindayfish_920`  
 - 🐦 **X (Twitter)**: [@cpk8vFeRT626233](https://x.com/cpk8vFeRT626233)  
 - 📷 **Xiaohongshu** (小红书): [4296150630](https://www.xiaohongshu.com/user/profile/4296150630)
